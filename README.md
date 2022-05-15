@@ -4,6 +4,7 @@
   <img width="100%" src="https://github.com/fercarballo/fercarballo/blob/main/assets/fer.png" alt="cover" />
 
 <div align="center">
+
 ## 🔧 Tecnologias 🎨
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mysql,py,git,figma,vscode&theme=light)
