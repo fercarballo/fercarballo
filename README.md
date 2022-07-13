@@ -1,7 +1,7 @@
 ### Hola, soy Fernando Carballo👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/fercarballo/fercarballo/blob/main/assets/ferc.png" alt="cover" />
+  <img width="100%" src="https://github.com/fercarballo/fercarballo/blob/main/assets/ferc.svg" alt="cover" />
 
 <div align="center">
 
