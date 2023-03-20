@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## 🔧 Tecnologias 🎨
+## 🔧 Tecnologías 🎨
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,mysql,py,git,docker,figma,vscode&theme=light)
 
