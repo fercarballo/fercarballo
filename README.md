@@ -39,7 +39,7 @@ Una serie de **10 proyectos** que cubre el ciclo de testing de punta a punta —
 | [Estabilidad y flakiness](https://github.com/fercarballo/flakiness-hunting-playwright) | Diagnóstico y erradicación del flakiness (85 % → 0 %) | Playwright |
 | [Regresión visual & contract testing](https://github.com/fercarballo/visual-and-contract-testing) | Comparación de screenshots + Pact consumer-driven | Playwright · Pact |
 
-### (SDET)
+### +
 
 | Proyecto | Foco | Stack |
 |---|---|---|
