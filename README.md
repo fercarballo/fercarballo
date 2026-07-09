@@ -1,7 +1,7 @@
 ### Hola, soy Fernando Carballo 👋
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/fercarballo/fercarballo/main/assets/new-banner.jpg" alt="cover" />
+  <img width="100%" src="https://raw.githubusercontent.com/fercarballo/fercarballo/main/assets/new-banner.jpeg" alt="cover" />
 </div>
 
 **QA Engineer** enfocado en **automatización y SDET**. Con background en desarrollo full-stack, aplico criterio de ingeniería para construir automatización de calidad de punta a punta: frameworks **E2E** y de **API**, pipelines **CI/CD** con quality gates, **performance**, **seguridad shift-left** y **testing de aplicaciones con IA**.
