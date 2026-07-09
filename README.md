@@ -27,7 +27,7 @@
 
 ## 🧪 Suite de Automatización de Calidad
 
-Una serie de **10 proyectos** que cubre el ciclo de testing de punta a punta — de los fundamentos a las prácticas propias de un rol **SDET**. Cada uno con tests reales ejecutados, documentación técnica y **CI en verde**.
+Una serie de **10 proyectos** que cubre el ciclo de testing de punta a punta — de los fundamentos a las prácticas. Cada uno con tests ejecutados, documentación técnica y **CI**.
 
 ### Fundamentos
 
